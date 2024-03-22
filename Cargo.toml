@@ -1,0 +1,12 @@
+[package]
+name = "kun_qeustion_mark"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = ""
+description = "This is another AAU Copenhagen package as a part of a semester project. Please do not use"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
